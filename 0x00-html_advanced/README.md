@@ -1,7 +1,7 @@
 # 0x00. Advanced HTML
 ## Concepts
 For this project, we expect you to look at this concept:
-* HTML - elements of a web page
+* [HTML - elements of a web page](elements.md)
 # Resources
 * [HTML 5.2](https://html.spec.whatwg.org/multipage/)
 * [HTML: HyperText Markup Language | MDN](https://developer.mozilla.org/en-US/docs/Web/HTML)
