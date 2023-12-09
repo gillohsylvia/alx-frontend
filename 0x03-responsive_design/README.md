@@ -1,7 +1,7 @@
 # 0x03. Responsive design
 ### Concepts
 For this project, we expect you to look at this concept:
-* Responsive web design
+* [Responsive web design](responsive.md)
 ## Resources
 * [The building blocks of responsive design - Progressive web apps | MDN](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Responsive_Design)
 * [A pragmatic guide to designing and building responsive web applications | developerlife.com](https://developerlife.com/2019/08/25/guide-to-building-responsive-web-apps/)
